@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PEDS Vitals</string>
+
+    <string name="NeonateHeart">100–190 bpm</string>
+    <string name="NeonateLung">40–60 bpm</string>
+    <string name="NeonateSys">N/A</string>
+
+    <string name="halfWeight">3–4 Kg</string>
+    <string name="halfHeart">90–190 bpm</string>
+    <string name="halfLung">30–60 bpm</string>
+    <string name="halfSys">50–70 mmHg</string>
+
+    <string name="oneWeight">5–7 Kg</string>
+    <string name="oneHeart">80–180 bpm</string>
+    <string name="oneLung">25–40 bpm</string>
+    <string name="oneSys">60–110 mmHg</string>
+
+    <string name="threeWeight">10–12 Kg</string>
+    <string name="threeHeart">80–150 bpm</string>
+    <string name="threeLung">20–40 bpm</string>
+    <string name="threeSys">70–110 mmHg</string>
+
+    <string name="fiveWeight">15 Kg</string>
+    <string name="fiveHeart">80–140 bpm</string>
+    <string name="fiveLung">20–30 bpm</string>
+    <string name="fiveSys">80–115 mmHg</string>
+
+    <string name="sevenWeight">20 Kg</string>
+    <string name="sevenHeart">70–120 bpm</string>
+    <string name="sevenLung">20–25 bpm</string>
+    <string name="sevenSys">80–115 mmHg</string>
+
+    <string name="nineWeight">25 Kg</string>
+    <string name="nineHeart">70–110 bpm</string>
+    <string name="nineLung">20–25 bpm</string>
+    <string name="nineSys">85–120 mmHg</string>
+
+    <string name="elevenWeight">30 Kg</string>
+    <string name="elevenHeart">65–110 bpm</string>
+    <string name="elevenLung">15–25 bpm</string>
+    <string name="elevenSys">90–125 mmHg</string>
+
+</resources>
